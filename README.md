@@ -10,3 +10,6 @@ The tool provides an easy-to-use interface for loading, processing, and visualiz
 
 ## Usage
 To get started, install the required dependencies and run the Climate Insight script, then follow the prompts to load your data and generate visualizations.
+
+## Changelog
+- Added utility functions
